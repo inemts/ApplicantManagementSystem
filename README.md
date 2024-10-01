@@ -20,35 +20,35 @@
 
 # Скриншоты:
 
-![Страница авторизации](https://github.com/inemts/StudentControl/blob/main/screens/1.jpg)
+![Страница авторизации](https://github.com/inemts/ApplicantManagementSystem/blob/main/screens/1.jpg)
 <div >Страница авторизации</div>
 </br> </br> </br>
 
-![Страница гостя(регистрация)](https://github.com/inemts/StudentControl/blob/main/screens/1.jpg?raw=true)
+![Страница гостя(регистрация)](https://github.com/inemts/ApplicantManagementSystem/blob/main/screens/2.jpg)
 <div>Страница гостя(регистрация)</div>
 </br> </br> </br>
 
-![Главная страница администратора](https://github.com/inemts/StudentControl/blob/main/screens/4.jpg?raw=true)
+![Главная страница администратора](https://github.com/inemts/ApplicantManagementSystem/blob/main/screens/3.jpg)
 <div>Главная страница админа</div>
 </br> </br> </br>
 
-![Просмотр специальностей от роли администратора](https://github.com/inemts/StudentControl/blob/main/screens/3.jpg?raw=true)
+![Просмотр специальностей от роли администратора](https://github.com/inemts/ApplicantManagementSystem/blob/main/screens/4.jpg)
 <div>Просмотр специальностей от роли админа</div>
 </br> </br> </br>
 
-![Добавление новой специальности](https://github.com/inemts/StudentControl/blob/main/screens/7.jpg?raw=true)
+![Добавление новой специальности](https://github.com/inemts/ApplicantManagementSystem/blob/main/screens/5.jpg)
 <div>Добавление новой специальности</div>
 </br> </br> </br>
 
-![Просмотр списка пользователей от роли администратора](https://github.com/inemts/StudentControl/blob/main/screens/2.jpg?raw=true)
+![Просмотр списка пользователей от роли администратора](https://github.com/inemts/ApplicantManagementSystem/blob/main/screens/6.jpg)
 <div>Просмотр списка пользователей от роли админа</div>
 </br> </br> </br>
 
-![Главная страница абитуриента](https://github.com/inemts/StudentControl/blob/main/screens/5.jpg?raw=true)
+![Главная страница абитуриента](https://github.com/inemts/ApplicantManagementSystem/blob/main/screens/7.jpg)
 <div>Главная страница абитуриента</div>
 </br> </br> </br>
 
-![Главная страница Редактора](https://github.com/inemts/StudentControl/blob/main/screens/6.jpg?raw=true)
+![Главная страница Редактора](https://github.com/inemts/ApplicantManagementSystem/blob/main/screens/8.jpg)
 <div>Главная страница редактора</div>
 
 </br> </br> </br>
